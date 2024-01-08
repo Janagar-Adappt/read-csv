@@ -23,5 +23,6 @@ for (const record of records) {
     });
 
     expect(response.status()).toBe(201);
+    
   });
 }
